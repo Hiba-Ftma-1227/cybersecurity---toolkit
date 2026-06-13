@@ -13,8 +13,3 @@ A Python-based cybersecurity toolkit developed as an academic project.
 - Socket Programming
 - Hashlib
 - Tkinter (GUI)
-
-## How to Run
-
-```bash
-python cyber_toolkit.py
